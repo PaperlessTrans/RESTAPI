@@ -11,7 +11,7 @@ $postData = array(
 		)));
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => "https://api.paperlesstrans.com/profiles/create",
+  CURLOPT_URL => "https://staging-api.paperlesstrans.com/profiles/create",
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
   CURLOPT_MAXREDIRS => 10,
@@ -43,7 +43,7 @@ else
 	if($response->statusCode == "C")
 	{
 		$profileNumber = $response->profile->profileNumber;
-		echo $profileNumber;
+		echo "Profile Number: " . $profileNumber;
 	}
 	else
 	{

@@ -15,7 +15,7 @@ $postData = array(
 		)));
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => "https://api.paperlesstrans.com/transactions/capture",
+  CURLOPT_URL => "https://staging-api.paperlesstrans.com/transactions/capture",
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
   CURLOPT_MAXREDIRS => 10,
