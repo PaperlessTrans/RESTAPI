@@ -1,23 +1,23 @@
 Paperless Transactions REST API Calls to Create Profiles and Transactions on Credit Cards and ACH in Test Mode.
 
-Test Accounts - Approvals
-  AMEX:	343434343434343
-  VISA:	4444424444444440
-  MC:	5454545454545454
-  DISC:	6011111111111117
+Test Accounts - Approvals<br>
+  AMEX:	343434343434343<br>
+  VISA:	4444424444444440<br>
+  MC:	5454545454545454<br>
+  DISC:	6011111111111117<br>
 
-  ACH	Routing Number: 111111118
-  ACH Account Number: 12121214
+  ACH	Routing Number: 111111118<br>
+  ACH Account Number: 12121214<br>
 
---------------------------------
-Test Accounts - Declines
-  AMEX:	341134113411347
-  VISA:	4111111111111111
-  MC:	5105105105105100
-  DISC:	6011000995500000
+--------------------------------<br>
+Test Accounts - Declines<br>
+  AMEX:	341134113411347<br>
+  VISA:	4111111111111111<br>
+  MC:	5105105105105100<br>
+  DISC:	6011000995500000<br>
  
-  ACH	Routing Number: 222222226
-  ACH Account Number: 42222226
+  ACH	Routing Number: 222222226<br>
+  ACH Account Number: 42222226<br>
 
 References:
 1. https://staging-api.paperlesstrans.com/client/#/
