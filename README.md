@@ -19,6 +19,8 @@ Test Accounts - Declines<br>
   ACH	Routing Number: 222222226<br>
   ACH Account Number: 42222226<br>
 
+<b>Future Expiration Dates in MM-YYYY and 3-digit CVV (4-digit CVV for AMEX)</b>
+
 References:
 1. https://staging-api.paperlesstrans.com/client/#/
 2. https://staging-api.paperlesstrans.com/explore/index
